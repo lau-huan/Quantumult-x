@@ -3,7 +3,7 @@
   "name": "lau-huan 应用订阅",
   "author": "@lau-huan",
   "icon": "",
-  "repo": "https://github.com/lau-huan/Quantumult_X/master",
+  "repo": "https://github.com/lau-huan/Quantumult-x/tree/main",
   "apps": [
     {
       "id": "checkin",

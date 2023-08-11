@@ -1,7 +1,7 @@
 {
-  "id": "evilbutcher.app.sub",
-  "name": "evilbutcher 应用订阅",
-  "author": "@evilbutcher",
+  "id": "lau-huan.app.sub",
+  "name": "lau-huanr 应用订阅",
+  "author": "@lau-huan",
   "icon": "https://raw.githubusercontent.com/evilbutcher/QuantumultX/master/picture/13th.png",
   "repo": "https://github.com/lau-huan/Quantumult_X/master",
   "apps": [
